@@ -13,7 +13,7 @@ function create(req){
         stream = fs.createReadStream(__dirname + '/../files/' + file.name);
         outputFileName = file.name.split('.');
         writable = fs.createWriteStream(__dirname + '/../files/' + outputFileName[0] + '.yaml');
-    }, 3000)
+    }, 3000);
 }
 
 module.exports = function(app){
