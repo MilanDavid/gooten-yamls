@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 const fileUpload = require('express-fileupload');
 
-var htmlController = require('./controllers/htmlController');
+var htmlController = require('./htmlController');
 
 // setup enviroment port or default 3000
 var port = process.env.PORT || 3000;

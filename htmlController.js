@@ -7,11 +7,11 @@ var writable;
 
 function create(req){
     file = req.files.file;
-    file.mv(__dirname + '/../public/files/' + file.name);
+    file.mv(__dirname + '/public/files/' + file.name);
     setTimeout(function(){
-        stream = fs.createReadStream(__dirname + '/../public/files/' + file.name);
+        stream = fs.createReadStream(__dirname + '/public/files/' + file.name);
         outputFileName = file.name.split('.');
-        writable = fs.createWriteStream(__dirname + '/../public/files/' + outputFileName[0] + '.yaml');
+        writable = fs.createWriteStream(__dirname + '/public/files/' + outputFileName[0] + '.yaml');
     }, 3000);
 }
 
@@ -130,6 +130,6 @@ module.exports = function(app){
             next();
         }, 3000);
     }, function(req, res, next){
-        res.download(__dirname + '/../public/files/' + outputFileName[0] + '.yaml');
+        res.download(__dirname + '/public/files/' + outputFileName[0] + '.yaml');
     }])
 }

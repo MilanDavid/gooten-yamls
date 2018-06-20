@@ -1,0 +1,675 @@
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-VintageBlack-Womens-CB
+      price: $15.49
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-VintageBlack-Womens-CF
+      price: $15.49
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-VintageBlack-Womens-CFCB
+      price: $21.24
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-VintageBlack-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-VintageBlack-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-VintageBlack-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-VintageBlack-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-VintageBlack-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-VintageBlack-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-VintageBlack-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-VintageBlack-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-VintageBlack-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-VintageBlack-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-VintageBlack-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-VintageBlack-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Vintage Black
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-HeatherWhite-Womens-CB
+      price: $15.49
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-HeatherWhite-Womens-CF
+      price: $15.49
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-HeatherWhite-Womens-CFCB
+      price: $21.24
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-HeatherWhite-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-HeatherWhite-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-HeatherWhite-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-HeatherWhite-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-HeatherWhite-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-HeatherWhite-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-HeatherWhite-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-HeatherWhite-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-HeatherWhite-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-HeatherWhite-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-HeatherWhite-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-HeatherWhite-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Heather White
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-PremiumHeather-Womens-CB
+      price: $15.49
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-PremiumHeather-Womens-CF
+      price: $15.49
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-2XL-PremiumHeather-Womens-CFCB
+      price: $21.24
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: XXL (2XL)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-PremiumHeather-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-PremiumHeather-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-L-PremiumHeather-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Large (L)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-PremiumHeather-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-PremiumHeather-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-M-PremiumHeather-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Medium (M)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-PremiumHeather-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-PremiumHeather-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-S-PremiumHeather-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Small (S)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front and Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-PremiumHeather-Womens-CB
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Back
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-PremiumHeather-Womens-CF
+      price: $13.99
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front
+    - sku: Apparel-DTG-Tshirt-NL-6760-XL-PremiumHeather-Womens-CFCB
+      price: $19.74
+      options:
+        - name: Brand
+          value: Next Level
+        - name: Model
+          value: 6760 Triblend Dolman Tee
+        - name: Gender
+          value: Women's
+        - name: Sizes
+          value: Extra Large (XL)
+        - name: Colors
+          value: Premium Heather
+        - name: Print Placement
+          value: Center Front and Center Back
