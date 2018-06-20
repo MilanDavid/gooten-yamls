@@ -11,6 +11,7 @@ var port = process.env.PORT || 3000;
 
 // setup middleweate assets for site
 app.use('/assets', express.static(__dirname + '/public'));
+app.use('/files', express.static(__dirname + '/files'));
 app.use('/js', express.static(__dirname + '/node_modules'));
 app.use(fileUpload());
 
